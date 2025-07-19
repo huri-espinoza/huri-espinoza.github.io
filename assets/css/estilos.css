@@ -1,0 +1,31 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.title-name {
+  font-size: 40px;
+}
+
+
+.header {
+  background-image: url("../img/bg-header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.portafolio .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  .portafolio .image-top {
+    background-position: center;
+  }
+  .navbar-brand{
+    width: 100px;
+  }
+
+}

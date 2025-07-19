@@ -1,0 +1,100 @@
+.bg-color-green {
+    background-color: #28a745;
+}
+
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+
+.text-title-form {
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.text-button-send {
+    font-family: "Roboto", sans-serif !important;
+    color: #212529 !important;
+    font-optical-sizing: auto;
+    font-weight: 500 !important;
+    font-style: normal;
+    font-size: 16px !important;
+}
+
+.text-placeholder {
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px !important;
+}
+
+.text-all-rights-reserved {
+    font-family: "Roboto", sans-serif;
+    color: #707070;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px !important;
+}
+
+.card-title {
+    font-family: "Roboto", sans-serif !important;
+    color: #212529 !important;
+    font-optical-sizing: auto;
+    font-weight: 300 !important;
+    font-style: normal;
+    font-size: 20px !important;
+}
+
+.card-body {
+    padding-bottom: 10px !important;
+}
+
+.card-body p {
+    margin-bottom: 1px !important;
+}
+
+.grey-text-16 {
+    font-family: "Roboto", sans-serif !important;
+    color: #707070 !important;
+    font-optical-sizing: auto;
+    font-weight: 300 !important;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.grey-text-13 {
+    font-family: "Roboto", sans-serif !important;
+    color: #707070 !important;
+    font-optical-sizing: auto;
+    font-weight: 300 !important;
+    font-style: normal;
+    font-size: 13px;
+}
+
+.green-text-20 {
+    font-family: "Roboto", sans-serif !important;
+    color: #28a745 !important;
+    font-optical-sizing: auto;
+    font-weight: 500 !important;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.card-footer {
+    padding-right: 0px !important;
+    display: flex !important;
+    align-items: flex-end !important;
+    justify-content: flex-end !important;
+    gap: 11px;
+    background-color: #FFFFFF !important;
+}
+
+.card-footer p {
+    margin-bottom: 5px !important;
+}
